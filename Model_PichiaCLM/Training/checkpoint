@@ -1,0 +1,2 @@
+model_checkpoint_path: "FinArch1_AttnCorr_cp.ckpt"
+all_model_checkpoint_paths: "FinArch1_AttnCorr_cp.ckpt"
